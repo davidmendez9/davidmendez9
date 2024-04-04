@@ -8,9 +8,9 @@
 <h2>💡 Tecnologías</h2>
 <ul>
   <li><strong>Lenguajes de programación:</strong> Python, Java, C, C#.</li>
-  <li><strong>Bases de datos:</strong> MySQL, Oracle, PostgreSQL</li>
-  <li><strong>Herramientas de control de versiones:</strong>Git, GitHub</li>
-  <li><strong>Otros:</strong> HTML5, CSS3, Docker, Avalonia UI</li>
+  <li><strong>Bases de datos:</strong> MySQL, Oracle, PostgreSQL.</li>
+  <li><strong>Herramientas de control de versiones:</strong>Git, GitHub.</li>
+  <li><strong>Otros:</strong> HTML5, CSS3, Docker, Avalonia UI.</li>
 </ul>
 
 <!--
