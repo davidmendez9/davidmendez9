@@ -1,4 +1,4 @@
-<h1>👋 ¡Bienvenido/a a mi perfil de GitHub! </h1>
+<h1>👋 ¡Bienvenido a mi perfil de GitHub! </h1>
 <p>
 ¡Hola! Soy David, un apasionado desarrollador de software recién graduado en Desarrollo de Aplicaciones Multiplataforma. Estoy emocionado por comenzar mi carrera profesional en el mundo del desarrollo y estoy comprometido con aprender y crecer en este campo apasionante. Mi objetivo es contribuir con mi entusiasmo, creatividad y disposición para enfrentar nuevos desafíos en cada proyecto en el que participe.
 </p>
