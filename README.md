@@ -1,13 +1,13 @@
 <h1>👋 ¡Bienvenido a mi perfil de GitHub! </h1>
 <p>
-¡Hola! Soy David, un apasionado desarrollador de software recién graduado en Desarrollo de Aplicaciones Multiplataforma. Estoy emocionado por comenzar mi carrera profesional en el mundo del desarrollo y estoy comprometido con aprender y crecer en este campo apasionante. Mi objetivo es contribuir con mi entusiasmo, creatividad y disposición para enfrentar nuevos desafíos en cada proyecto en el que participe.
+¡Hola! Soy David, un apasionado desarrollador de software graduado en Desarrollo de Aplicaciones Multiplataforma. Estoy emocionado por comenzar mi carrera profesional en el mundo del desarrollo y estoy comprometido con aprender y crecer en este campo apasionante. Mi objetivo es contribuir con mi entusiasmo, creatividad y disposición para enfrentar nuevos desafíos en cada proyecto en el que participe.
 </p>
 
 <hr/>
 
 <h2>💡 Tecnologías</h2>
 <ul>
-  <li><strong>Lenguajes de programación:</strong> Python, Java, C, C#.</li>
+  <li><strong>Lenguajes de programación:</strong> Java, C, C#, Python.</li>
   <li><strong>Bases de datos:</strong> MySQL, Oracle, PostgreSQL.</li>
   <li><strong>Herramientas de control de versiones:</strong> Git, GitHub.</li>
   <li><strong>Otros:</strong> HTML5, CSS3, Docker, Avalonia UI.</li>
