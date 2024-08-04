@@ -7,7 +7,7 @@
 
 <h2>💡 Tecnologías</h2>
 <ul>
-  <li><strong>Lenguajes de programación:</strong> Java, C, C#, Python.</li>
+  <li><strong>Lenguajes de programación:</strong> Java, JavaScript, C, C#, Python, PHP.</li>
   <li><strong>Bases de datos:</strong> MySQL, Oracle, PostgreSQL.</li>
   <li><strong>Herramientas de control de versiones:</strong> Git, GitHub.</li>
   <li><strong>Otros:</strong> HTML5, CSS3, Docker, Avalonia UI.</li>
